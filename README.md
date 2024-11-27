@@ -1,2 +1,3 @@
-# Number Game ✨
+# Games ✨
 Number Game
+
