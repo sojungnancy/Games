@@ -1,3 +1,3 @@
-# Javascript Game Collection Website ✨
+# Javascript Game Website ✨
 Number Game
 
